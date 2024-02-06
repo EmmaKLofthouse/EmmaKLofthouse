@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emma
+- 👋 Hi, I’m Emma. I'm a data scientist with a background in Astrophysics who loves using machine learning and data visualization to discover new and interesting results. 
 
 
 <!---
